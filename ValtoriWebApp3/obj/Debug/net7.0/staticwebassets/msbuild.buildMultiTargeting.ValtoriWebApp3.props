@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ValtoriWebApp3.props" />
+</Project>
